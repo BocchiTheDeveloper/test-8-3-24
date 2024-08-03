@@ -103,4 +103,14 @@ img {
     p {
         font-size: 1rem;
     }
+
+    #toc-button {
+        padding: 8px 16px;
+        font-size: 0.875rem;
+    }
+
+    #cancel-button {
+        padding: 8px 16px;
+        font-size: 0.875rem;
+    }
 }
