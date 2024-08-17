@@ -39,9 +39,151 @@ body {
     justify-content: center;
 }
 
+#section-2 {
+    background-color: #00072D;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#section-2 h1 {
+    margin-bottom: 20px;
+}
+
+#section-2 p {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+#section-3 {
+    background-color: #051650;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#section-3 h1 {
+    margin-bottom: 20px;
+}
+
+#section-3 img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#section-3 p {
+    max-width: 800px;
+    margin: 20px auto;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+#section-4 {
+    background-color: #0A2472;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#section-4 h1 {
+    margin-bottom: 20px;
+}
+
+#section-4 img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#section-4 p {
+    max-width: 800px;
+    margin: 20px auto;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+#section-5 {
+    background-color: #123499;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#section-5 h1 {
+    margin-bottom: 20px;
+}
+
+#section-5 img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#section-5 p {
+    max-width: 800px;
+    margin: 20px auto;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+#section-6 {
+    background-color: #1A43BF;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#section-6 h1 {
+    margin-bottom: 20px;
+}
+
+#section-6 img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#section-6 p {
+    max-width: 800px;
+    margin: 20px auto;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
 img {
     width: 30%;
     border-radius: 50%;
+}
+
+#personality-test, #variety-show, #MMK {
+    border-radius: 15px;
+    border: 5px solid white;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar ul li {
+    margin: 10px 0;
+}
+
+.sidebar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.sidebar ul li a:hover {
+    text-decoration: underline;
 }
 
 .fade-in-right {
@@ -112,5 +254,10 @@ img {
     #cancel-button {
         padding: 8px 16px;
         font-size: 0.875rem;
+    }
+
+    #section-2 p,
+    #section-3 p {
+        font-size: 1rem;
     }
 }
