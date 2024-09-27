@@ -175,6 +175,54 @@ body {
     line-height: 1.6;
 }
 
+#section-7 {
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#section-7 h1 {
+    margin-bottom: 20px;
+}
+
+#section-7 img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#section-7 p {
+    max-width: 800px;
+    margin: 20px auto;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+#section-8 {
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#section-8 h1 {
+    margin-bottom: 20px;
+}
+
+#section-8 img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#section-8 p {
+    max-width: 800px;
+    margin: 20px auto;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
 img {
     width: 30%;
     border-radius: 50%;
@@ -251,6 +299,8 @@ img {
     padding: 10px 20px;
     cursor: pointer;
 }
+
+
 
 /* Responsive Styles */
 @media (max-width: 768px) {
